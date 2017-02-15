@@ -58,5 +58,4 @@ ENV PATH="/sirvsuite/tools/bedtools2/bin/:/sirvsuite/tools/samtools-1.3.1/:/sirv
 
 VOLUME ["/export/", "/data/", "/var/lib/docker"]
 
-ENTRYPOINT ["bash"]
 
